@@ -1,0 +1,112 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "wordSearch",
+			"request": "launch",
+			"mainClass": "wordSearch",
+			"projectName": "Java_da5b361e"
+		},
+		{
+			"type": "java",
+			"name": "palindromePartitioning",
+			"request": "launch",
+			"mainClass": "palindromePartitioning",
+			"projectName": "Java_da5b361e"
+		},
+		{
+			"type": "java",
+			"name": "permutations",
+			"request": "launch",
+			"mainClass": "permutations",
+			"projectName": "Java_da5b361e"
+		},
+		{
+			"type": "java",
+			"name": "subsets2",
+			"request": "launch",
+			"mainClass": "subsets2",
+			"projectName": "Java_da5b361e"
+		},
+		{
+			"type": "java",
+			"name": "Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"type": "java",
+			"name": "ContainsDuplicate",
+			"request": "launch",
+			"mainClass": "ContainsDuplicate",
+			"projectName": "Java_da5b361e"
+		},
+		{
+			"type": "java",
+			"name": "binarySearch",
+			"request": "launch",
+			"mainClass": "binarySearch",
+			"projectName": "Java_da5b361e"
+		},
+		{
+			"type": "java",
+			"name": "coinChangeProblem",
+			"request": "launch",
+			"mainClass": "coinChangeProblem",
+			"projectName": "Java_da5b361e"
+		},
+		{
+			"type": "java",
+			"name": "groupAnagrams",
+			"request": "launch",
+			"mainClass": "groupAnagrams",
+			"projectName": "Java_da5b361e"
+		},
+		{
+			"type": "java",
+			"name": "subsets",
+			"request": "launch",
+			"mainClass": "subsets",
+			"projectName": "Java_da5b361e"
+		},
+		{
+			"type": "java",
+			"name": "threeSum",
+			"request": "launch",
+			"mainClass": "threeSum",
+			"projectName": "Java_da5b361e"
+		},
+		{
+			"type": "java",
+			"name": "twoSum",
+			"request": "launch",
+			"mainClass": "twoSum",
+			"projectName": "Java_da5b361e"
+		},
+		{
+			"type": "java",
+			"name": "validAnagram",
+			"request": "launch",
+			"mainClass": "validAnagram",
+			"projectName": "Java_da5b361e"
+		},
+		{
+			"type": "java",
+			"name": "validPalindrome",
+			"request": "launch",
+			"mainClass": "validPalindrome",
+			"projectName": "Java_da5b361e"
+		},
+		{
+			"type": "java",
+			"name": "validParenthesis",
+			"request": "launch",
+			"mainClass": "validParenthesis",
+			"projectName": "Java_da5b361e"
+		}
+	]
+}
