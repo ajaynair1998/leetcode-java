@@ -6,6 +6,13 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "HouseRobber",
+			"request": "launch",
+			"mainClass": "HouseRobber",
+			"projectName": "Java_da5b361e"
+		},
+		{
+			"type": "java",
 			"name": "wordSearch",
 			"request": "launch",
 			"mainClass": "wordSearch",
