@@ -24,12 +24,12 @@ public class binarySearch {
       }
 
       if (valueAtMidPointer < target) {
-        leftPointer++;
+        leftPointer = midPointer + 1;
         continue;
       }
 
       if (valueAtMidPointer > target) {
-        rightPointer--;
+        rightPointer = midPointer - 1;
       }
 
     }
