@@ -6,6 +6,13 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "permutationInString",
+			"request": "launch",
+			"mainClass": "permutationInString",
+			"projectName": "Java_da5b361e"
+		},
+		{
+			"type": "java",
 			"name": "longestRepeatingCharacterReplacement",
 			"request": "launch",
 			"mainClass": "longestRepeatingCharacterReplacement",
