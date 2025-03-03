@@ -6,6 +6,13 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "TrappingRainWater",
+			"request": "launch",
+			"mainClass": "TrappingRainWater",
+			"projectName": "leetcode-java_7f04ab2b"
+		},
+		{
+			"type": "java",
 			"name": "permutationInString",
 			"request": "launch",
 			"mainClass": "permutationInString",
